@@ -4,6 +4,8 @@ This is a demo project for [react-native-unity](https://github.com/f111fei/react
 
 ## Unity Version
 
+使用 2018.2.17f1
+
 Use the master branch (Unity >= 2018.2)
 
 Use [unity-2017](https://github.com/f111fei/react-native-unity-demo/tree/unity-2018.1) branch (Unity = 2018.1)
