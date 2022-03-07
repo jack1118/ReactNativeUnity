@@ -24,8 +24,6 @@ cd react-native-unity-demo
 
 npm install
 
-npm run watch
-
 npm run android or npm run ios
 ```
 
