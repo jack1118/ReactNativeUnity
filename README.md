@@ -20,11 +20,11 @@ Use [unity-2017](https://github.com/f111fei/react-native-unity-demo/tree/unity-2
 
 
 ```
-cd react-native-unity-demo
+cd ReactNativeUnity
 
 npm install
 
-npm run android or npm run ios
+npm run android
 ```
 
 ## Preview
